@@ -13,21 +13,21 @@ Paixão pela tecnologia e por fazer da tecnologia um meio de facilitar e tornar 
   
   <div align="center">
   <a href="https://github.com/acrds">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=acrds&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acrds&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=acrds&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acrds&layout=compact&langs_count=7&theme=radical"/>
 </div>
   <br>
   <br>
   
 <a href = "mailto:anasantos.rds@outlook.com">
   <img 
-       align="center"
+       
        src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/acrds">
   <img 
-       align="center"
+       
        src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
   
