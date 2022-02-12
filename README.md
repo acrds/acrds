@@ -20,15 +20,11 @@ Paixão pela tecnologia e por fazer da tecnologia um meio de facilitar e tornar 
   <br>
   
 <a href = "mailto:anasantos.rds@outlook.com">
-  <img 
-       
-       src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/acrds">
-  <img 
-       
-       src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
   
 
