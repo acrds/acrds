@@ -1,12 +1,12 @@
-## Olá, sou a Ana!
+## Olá, sou a Ana! 💻:woman_office_worker:
 
 <img align='right' src="https://media.giphy.com/media/YPQ62IX4xd60xJDaBu/giphy.gif" width="250">
 
-💻 *Graduanda de Ciência da Computação na UFRJ*  
+:woman_student: *Graduanda de Ciência da Computação na UFRJ*  
 💻 *Coordenadora discente do Minerv@s Digitais*   
-💻 *Gerente de projetos na EJCM*
+:bar_chart *Gerente de projetos na EJCM*
 
-Paixão pela tecnologia e por fazer da tecnologia um meio de facilitar e tornar melhor a vida das pessoas.
+:heart_eyes: Paixão pela tecnologia e por fazer da tecnologia um meio de facilitar e tornar melhor a vida das pessoas.
 
   &nbsp;
   &nbsp;
