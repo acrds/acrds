@@ -7,12 +7,12 @@
 :bar_chart: *Gerente de projetos na EJCM*
 :woman_technologist: *Técnica em Informática*
 :books: *Eterna aprendiz*
-&nbsp;
-  &nbsp;
+<br>
+  <br>
   
 **Interesse por:** Resolver problemas, compartilhar conhecimento, trabalho em equipe, liderar, comunicar e aprender.
-&nbsp;
-  &nbsp;
+<br>
+  <br>
 :heart_eyes: Paixão por tecnologia e por fazer dela um meio de facilitar e tornar melhor a vida das pessoas.
 </div>
 
