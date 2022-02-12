@@ -8,7 +8,8 @@
 
 :heart_eyes: Paixão pela tecnologia e por fazer da tecnologia um meio de facilitar e tornar melhor a vida das pessoas.
 
-
+  &nbsp;
+  &nbsp;
   
   <div align="center">
   <a href="https://github.com/acrds">
