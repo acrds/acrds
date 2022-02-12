@@ -3,10 +3,10 @@
 <img align='right' src="https://media.giphy.com/media/YPQ62IX4xd60xJDaBu/giphy.gif" width="200" heigth="200">
 
 :woman_student: *Graduanda de Ciência da Computação na UFRJ*  
-💻 *Coordenadora discente do Minerv@s Digitais*   
-:bar_chart: *Gerente de projetos na EJCM*
-:woman_technologist: *Técnica em Informática* 
-:books: *Eterna aprendiz* 
+💻 *Coordenadora discente do Minerv@s Digitais*  
+:bar_chart: *Gerente de projetos na EJCM*  
+:woman_technologist: *Técnica em Informática*  
+:books: *Eterna aprendiz*  
 <br>
   <br>
   
