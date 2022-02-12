@@ -7,7 +7,7 @@
 :bar_chart: *Gerente de projetos na EJCM*
 <br>
 <br>
-:heart_eyes: Paixão pela tecnologia e por fazer da tecnologia um meio de facilitar e tornar melhor a vida das pessoas.
+:heart_eyes: Paixão por tecnologia e por fazer dela um meio de facilitar e tornar melhor a vida das pessoas.
 
 
   &nbsp;
