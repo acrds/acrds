@@ -5,8 +5,8 @@
 :woman_student: *Graduanda de Ciência da Computação na UFRJ*  
 💻 *Coordenadora discente do Minerv@s Digitais*   
 :bar_chart: *Gerente de projetos na EJCM*
-:woman_technologist: *Técnica em Informática*
-:books: *Eterna aprendiz*
+:woman_technologist: *Técnica em Informática* 
+:books: *Eterna aprendiz* 
 <br>
   <br>
   
