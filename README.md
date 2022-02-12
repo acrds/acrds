@@ -5,10 +5,12 @@
 :woman_student: *Graduanda de Ciência da Computação na UFRJ*  
 💻 *Coordenadora discente do Minerv@s Digitais*   
 :bar_chart: *Gerente de projetos na EJCM*
+:woman_technologist: *Técnica em Informática*
+:books: *Eterna aprendiz*
 &nbsp;
   &nbsp;
   
-**Interesse por: ** Resolver problemas, compartilhar conhecimento, trabalho em equipe, liderar, comunicar e aprender.
+**Interesse por:** Resolver problemas, compartilhar conhecimento, trabalho em equipe, liderar, comunicar e aprender.
 &nbsp;
   &nbsp;
 :heart_eyes: Paixão por tecnologia e por fazer dela um meio de facilitar e tornar melhor a vida das pessoas.
