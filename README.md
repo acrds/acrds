@@ -5,7 +5,8 @@
 :woman_student: *Graduanda de Ciência da Computação na UFRJ*  
 💻 *Coordenadora discente do Minerv@s Digitais*   
 :bar_chart: *Gerente de projetos na EJCM*
-
+<br>
+<br>
 :heart_eyes: Paixão pela tecnologia e por fazer da tecnologia um meio de facilitar e tornar melhor a vida das pessoas.
 
   &nbsp;
