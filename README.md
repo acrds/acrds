@@ -8,9 +8,8 @@
 :woman_technologist: *Técnica em Informática*  
 :books: *Eterna aprendiz*  
 <br>
-  <br>
-  
-**Interesse por:** Resolver problemas, compartilhar conhecimento, trabalho em equipe, liderar, comunicar e aprender.
+
+:dart: **Interesse por:** Resolver problemas, compartilhar conhecimento, trabalho em equipe, liderar, comunicar e aprender.
 <br>
   <br>
 :heart_eyes: Paixão por tecnologia e por fazer dela um meio de facilitar e tornar melhor a vida das pessoas.
