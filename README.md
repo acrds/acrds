@@ -1,6 +1,6 @@
 ## Olá, sou a Ana! 💻:woman_office_worker:
 
-<img align='right' src="https://media.giphy.com/media/YPQ62IX4xd60xJDaBu/giphy.gif" width="250">
+<img align='right' src="https://media.giphy.com/media/YPQ62IX4xd60xJDaBu/giphy.gif" width="230" heigth="230">
 
 :woman_student: *Graduanda de Ciência da Computação na UFRJ*  
 💻 *Coordenadora discente do Minerv@s Digitais*   
