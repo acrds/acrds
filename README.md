@@ -1,5 +1,5 @@
 ## Olá, sou a Ana! 💻:woman_office_worker:
-
+<div>
 <img align='right' src="https://media.giphy.com/media/YPQ62IX4xd60xJDaBu/giphy.gif" width="200" heigth="200">
 
 :woman_student: *Graduanda de Ciência da Computação na UFRJ*  
@@ -8,7 +8,7 @@
 <br>
 <br>
 :heart_eyes: Paixão por tecnologia e por fazer dela um meio de facilitar e tornar melhor a vida das pessoas.
-
+</div>
 
   &nbsp;
   &nbsp;
